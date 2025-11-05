@@ -34,7 +34,6 @@ Ciphertext : KHOOR ZRUOG
 ```
 To decrypt:
 ```python
-Copy code
 Ciphertext : KHOOR ZRUOG
 Shift Key  : 3
 Plaintext  : HELLO WORLD
