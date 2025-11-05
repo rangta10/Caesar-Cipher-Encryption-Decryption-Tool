@@ -31,13 +31,14 @@ This tool allows users to:
 Plaintext  : HELLO WORLD
 Shift Key  : 3
 Ciphertext : KHOOR ZRUOG
+```
 To decrypt:
-
-python
+```python
 Copy code
 Ciphertext : KHOOR ZRUOG
 Shift Key  : 3
 Plaintext  : HELLO WORLD
+```
 🧰 Technologies Used
 Language: Python
 
@@ -48,17 +49,17 @@ Concepts: Cryptography, ASCII manipulation, String processing
 🚀 How to Run
 Clone this repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/rangta10/Caesar-Cipher-Encryption-Decryption-Tool.git
 cd Caesar-Cipher-Encryption-Decryption-Tool
 Open the Jupyter Notebook file:
-
-bash
+```
+```bash
 Copy code
 jupyter notebook CaesarCipherEncryptionDecryptionTool.ipynb
 Run all cells to test encryption and decryption.
-
+```
 📚 Future Enhancements
 Add GUI interface using Tkinter or PyQt
 
@@ -75,9 +76,9 @@ Annanay Rangta
 This project is open source and available under the MIT License.
 
 ⭐ If you found this useful, consider giving the repo a star!
-yaml
+```yaml
 Copy code
-
+```
 ---
 
 Would you like me to also generate a **short project description** (for the GitHub “About” section on the right side)? It helps your repo look more complete.
